@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/psolenny" target="blank"><img src="https://img.shields.io/twitter/follow/psolenny?logo=twitter&style=for-the-badge" alt="psolenny" /></a> </p>
 
-- 🔭 I’m currently working on **Odoo v.15**
+- 🔭 I’m currently working on **Odoo v.15 & v.17**
 
-- 👨‍💻 All of my projects are available at [www.psolenny.com](www.psolenny.com)
+
 
 - 💬 Ask me about **Odoo, Project Management, Change Management, Scrum, Python, SQL**
 
